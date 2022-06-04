@@ -4,7 +4,7 @@ A placeholder API for projects that need some temporary data to work with.
 
 ## Strategies 
 
-I used expressjs as a tool for creating an API, and prisma on create the database schema easier and faster.
+I used expressjs as a tool for creating an API, and prisma on creating the database schema easier and faster.
 
 ## Techonologies
 
