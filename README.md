@@ -9,6 +9,20 @@ I used expressjs as a tool for creating an API, and prisma on creating the datab
 ## Techonologies
 
 <p align="left">
+   <img
+    align="center"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/nodejs-icon.png?raw=true"
+    alt="nodejs"
+    height="40"
+    width="40"
+  />
+  <img
+    align="center"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/expressjs-icon.png?raw=true"
+    alt="expressjs"
+    height="40"
+    width="40"
+  />
   <img
     align="center"
     src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/prisma-icon.png?raw=true"
