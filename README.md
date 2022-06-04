@@ -1,6 +1,7 @@
 # Placeholder Api
 
 A placeholder API for projects that need some temporary data to work with.
+With full CRUD functionality.
 
 ## Strategies 
 
